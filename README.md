@@ -1,7 +1,7 @@
 TA_winDNS
 =========
 
-Splunk App to handle Windows Server DNS-Debug logs
+Splunk technology Addon to handle Windows Server DNS-Debug logs
 This TA needs to be deployed on the search head and the forwarder in order to ensure that the DNS data that is being sent from a universal forwarder
 is being appropriately parsed and indexed.  This app needs to be on the search head as well to ensure that the fields are properly extracted.
 
