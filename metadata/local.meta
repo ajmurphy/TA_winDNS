@@ -1,0 +1,8 @@
+[props/dns/EXTRACT-srcip]
+export = system
+#owner = murphau
+#version = 6.1.3
+#modtime = 1413692546.311385000a
+[props/dns/EXTRACT-question]
+export = system
+#owner = murphau
